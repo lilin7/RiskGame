@@ -1,0 +1,14 @@
+[Map]
+author=Xinyan
+image=1.jpg
+wrap=no
+scroll=none
+warn=no
+
+[Continents]
+Test=2
+
+[Territories]
+testCountry,0,0Test,testCountry2
+testCountry2,0,0Test,testCountry
+
